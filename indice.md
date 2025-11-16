@@ -17,7 +17,7 @@
 
 <h2 align="center"> 📂 Portafolio Digital de Aprendizaje
  
-### ***Este portafolio recopila las evidencias, reflexiones y actividades desarrolladas a lo largo de la asignatura Teoría de la Programación.***
+### ***Este portafolio recopila las evidencias, reflexiones y actividades desarrolladas a lo largo de la asignatura Matematicas Discretas.***
 
 ---
 
