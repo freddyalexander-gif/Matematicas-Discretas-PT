@@ -58,7 +58,7 @@
 
 **Descripción:** Creación y editación del portafolio digital de la materia en la herramienta de "GitHub".
 
-🔗 *Evidencia:* [Ver Actividad Autonoma Nro.2](https://drive.google.com/)
+🔗 *Evidencia:* [Ver Actividad Autonoma Nro.2](https://drive.google.com/drive/folders/109HT87nPmgXd2or4iYg_rsnmrmwQjWrS?usp=sharing)
 
 ---
 
