@@ -67,4 +67,4 @@
 </p>
 
 ---
-- [⬅️ Volver al índice del Portafolio](indece.md)
+- [⬅️ Volver al índice del Portafolio](indice.md)
